@@ -1,0 +1,2 @@
+# MinionSpeak
+Banana translation
